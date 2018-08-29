@@ -1,0 +1,10 @@
+.comment-block{
+    padding: 10px;
+    border: 2px solid #FE980F;
+    border-radius: 10px;
+}
+
+.comment-author{
+    margin-bottom: 5px;
+}
+
